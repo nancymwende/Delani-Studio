@@ -18,3 +18,16 @@
     padding-top: 14px;
     background-color: white;
 }
+.about{
+    margin-top: -30%;
+}
+#services{
+    text-align: center;
+    color: white;
+    padding-bottom: 50px;
+    padding-top: 10px;
+    background-image: url("images/s_image.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
