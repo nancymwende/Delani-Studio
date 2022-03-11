@@ -3,14 +3,18 @@
     text-align: center;
     font-family: 'Source Sans Pro', serif;
     font-size: 22px;
+    padding-bottom: 20%;
 }
 
-.image1{
-    height: 70%;
-    width: 80%;
+.part1{
+    height:40%;
     background-image: url(/images/h_img.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
     position: relative;
+}
+.headings{
+    padding-top: 14px;
+    background-color: white;
 }
