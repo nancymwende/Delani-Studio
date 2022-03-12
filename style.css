@@ -31,3 +31,12 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+.part3{
+    display: flex;
+    justify-content: space-around;
+
+}
+/* #design, #development, #product{
+    display: none;
+
+}    */
