@@ -1,25 +1,66 @@
-.container-full {
-    position: relative;
-    text-align: center;
-    font-family: 'Source Sans Pro', serif;
-    font-size: 22px;
-    padding-bottom: 20%;
+body{
+    padding: 0;
+    margin: 0;
 }
-
-.part1{
-    height:auto;
-    background-image: url(/images/h_img.jpg);
+.landing {
+    background-image: url("/images/h_img.jpg");
+    background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    background-size: cover;
+    color: #fff;
+    height: auto;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.logo img{
+    padding-top: 17%;
+}
+.landing h1{
+    text-align: center;
+    padding-top: 2rem;
+}
+.landing p{
+    text-align: center;
+    padding-top: 8px;
+}
+.mouse {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.mouse img {
     position: relative;
+    margin-top: 7rem;
+    padding-top: 3rem;
+    padding-bottom: 2rem;
+    animation: bounce 2s infinite;
 }
-.headings{
-    padding-top: -30px;
-    background-color: white;
+@keyframes bounce {
+    10% {
+
+        transform: translateY(0);
+    }
+    30% {
+
+        transform: translateY(-25px);
+    }
+    50% {
+
+        transform: translateY(-50px);
+    }
+    75% {
+
+        transform: translateY(-75px);
+    }
 }
+
 .about{
-    margin-top: -20%;
+    margin-top: 5%;
 }
 #services{
     text-align: center;
