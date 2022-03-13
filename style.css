@@ -7,7 +7,7 @@
 }
 
 .part1{
-    height:40%;
+    height:auto;
     background-image: url(/images/h_img.jpg);
     background-repeat: no-repeat;
     background-position: center;
@@ -15,11 +15,11 @@
     position: relative;
 }
 .headings{
-    padding-top: 14px;
+    padding-top: -30px;
     background-color: white;
 }
 .about{
-    margin-top: -30%;
+    margin-top: -20%;
 }
 #services{
     text-align: center;
@@ -31,12 +31,57 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
-.part3{
+/* .part3{
     display: flex;
     justify-content: space-around;
 
-}
+} */
 #design, #development, #product{
     display: none;
 
 }   
+.lastpart {
+    margin-top: 2rem;
+    background-image: url("/images/c_image.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+/* .lastpart, .container, h1 {
+    text-align: center;
+    color: #fff;
+    padding-top: 10px;
+} */
+
+.form, .textarea {
+    background-color: transparent;
+}
+.input-form ::placeholder {
+    color: #fff;
+}
+.form1, .form2 {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+.textarea {
+    margin-bottom: 1rem;
+}
+#submit {
+    color: rgb(69, 51, 230);
+    transition: all 0.5s;
+    background: transparent;
+    margin-bottom: 2rem;
+    border-radius: 10%;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    outline: none;
+
+}
+#submit:hover {
+    background-color: blue;
+    color: #fff;
+    box-shadow: 0 0 10px black, 0 0 20px blue, 0 0 40px black;
+    outline: none;
+}
