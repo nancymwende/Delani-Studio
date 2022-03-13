@@ -62,11 +62,6 @@ body{
 .about{
     margin-top: 5%;
 }
-.images{
-    justify-content: space-evenly;
-    display: flex;
-
-}
 
 #services{
     text-align: center;
