@@ -81,17 +81,22 @@ body{
 #design, #development, #product{
     display: none;
 
-}   
+} 
+.portfolio row{
+    display: flex;
+    justify-content: space-around;
+}  
 .work1{
     position: relative;
 
 }
 .image1{
     position: absolute;
-    top: 0;
-    left: 4px;
+    top: 4%;
+    right: 4%;
+    margin-top: 20%;
     display: none;
-    border: 1px solid white
+    border:  solid white;
 }
 .work1:hover .image1{
     display: block;
@@ -102,8 +107,10 @@ body{
 }
 .image2{
     position: absolute;
-    top: 0;
-    left: 4px;
+    top: 4%;
+    left: 1px;
+    right: 6%;
+    margin-top: 20%;
     display: none;
     border: 1px solid white
 }
