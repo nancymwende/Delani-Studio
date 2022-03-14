@@ -1,34 +1,33 @@
-DELANI STUDIO
+# DELANI STUDIO
 14th March 2022
 
 By ** Nancy Mwende**
-ScreenShot
 
 
-Description
+# Description
 Delani studio takes the user information regarding to the services needed.A pop up message is alerted regarding to what details he/she has given.
 
- Installation / Setup instruction
+ # Installation / Setup instruction
 Open Terminal {Ctrl+Alt+T}
 git clone https://github.com/nancymwende/Delani-Studio
 cd Delani
 code . for VS code to run it
 Go live or start your server
 
- Live Link
+ # Live Link
 https:nancymwende.github.io/delani-studio/
 
- Known Bugs
+ # Known Bugs
 None that am aware of.
 
- Technologies Used
+# Technologies Used
 JAVASCRIPT
 HTML
 CSS
 BOOTSTRAP
-#jQuery
+jQuery
 
-BDD
+# BDD
 Scroll down to the form section;
 
 Enter your  name e.g Nancy
