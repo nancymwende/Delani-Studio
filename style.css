@@ -82,6 +82,116 @@ body{
     display: none;
 
 }   
+.work1{
+    position: relative;
+
+}
+.image1{
+    position: absolute;
+    top: 0;
+    left: 4px;
+    display: none;
+    border: 1px solid white
+}
+.work1:hover .image1{
+    display: block;
+}
+
+.work2{
+    position: relative;
+}
+.image2{
+    position: absolute;
+    top: 0;
+    left: 4px;
+    display: none;
+    border: 1px solid white
+}
+.work2:hover .image2{
+    display: block;
+}
+.work3{
+    position: relative;
+
+}
+.image3{
+    position: absolute;
+    top: 0;
+    left: 4px;
+    display: none;
+    border: 1px solid white
+}
+.work3:hover .image3{
+    display: block;
+}
+.work4{
+    position: relative;
+
+}
+.image4{
+    position: absolute;
+    top: 0;
+    left: 4px;
+    display: none;
+    border: 1px solid white
+}
+.work4:hover .image4{
+    display: block;
+}
+.work5{
+    position: relative;
+}
+.image5{
+    position: absolute;
+    top: 0;
+    left: 4px;
+    display: none;
+    border: 1px solid white
+}
+.work5:hover .image5{
+    display: block;
+}
+.work6{
+    position: relative;
+}
+.image6{
+    position: absolute;
+    top: 0;
+    left: 4px;
+    display: none;
+    border: 1px solid white
+}
+.work6:hover .image6{
+    display: block;
+}
+.work7{
+    position: relative;
+
+}
+.image7{
+    position: absolute;
+    top: 0;
+    left: 4px;
+    display: none;
+    border: 1px solid white
+}
+.work7:hover .image7{
+    display: block;
+}
+.work8{
+    position: relative;
+}
+.image8{
+    position: absolute;
+    top: 0;
+    left: 4px;
+    display: none;
+    border: 1px solid white
+}
+.work8:hover .image8{
+    display: block;
+}
+
 .lastpart {
     margin-top: 2rem;
     background-image: url("/images/c_image.jpg");
