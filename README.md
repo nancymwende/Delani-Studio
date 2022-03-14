@@ -2,7 +2,8 @@
 14th March 2022
 
 By **Nancy Mwende**
-
+## screenshot
+ <img src="images/studio.png" alt="">
 
 # Description
 Delani studio takes the user information regarding to the services needed.A pop up message is alerted regarding to what details he/she has given.
@@ -35,7 +36,7 @@ Enter your Email Address e.g nancymwende860@gmail.com
 Enter your message
 Press Submit
 A pop up message will appear.
-#Support and contact details
+# Support and contact details
 In case of any contributions or questions, email nancy.mwende@student.moringaschool.com or nancymwende@gmail.com
 
 # License
