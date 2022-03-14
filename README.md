@@ -1,7 +1,7 @@
 # DELANI STUDIO
 14th March 2022
 
-By ** Nancy Mwende**
+By **Nancy Mwende**
 
 
 # Description
