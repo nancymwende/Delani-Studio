@@ -81,11 +81,13 @@ body{
 #design, #development, #product{
     display: none;
 
+    
 } 
-.portfolio row{
+.portfolio{
     display: flex;
-    justify-content: space-around;
-}  
+    justify-content:space-between;
+
+}
 .work1{
     position: relative;
 
