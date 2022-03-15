@@ -12,7 +12,8 @@ Delani studio takes the user information regarding to the services needed.A pop 
 Open Terminal {Ctrl+Alt+T}
 git clone https://github.com/nancymwende/Delani-Studio
 cd Delani
-code . for VS code to run it
+code . 
+for VS code to run it
 Go live or start your server
 
  # Live Link
